@@ -1,4 +1,4 @@
-# GFG Logic Building C Programs
+# GFG Logic Building C++ Programs
 
 A curated collection of **C programming problems and solutions** inspired by GeeksforGeeks logic-building tracks.
 
