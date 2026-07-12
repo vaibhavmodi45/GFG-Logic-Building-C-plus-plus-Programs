@@ -1,0 +1,192 @@
+Category,Problem Name,DONE
+Basic C++ Programs,Hello World,TRUE
+,Display Your Name,TRUE
+,User Input,TRUE
+,Sum of Two Numbers,TRUE
+,Swap two numbers,TRUE
+,"Size of int, float, double, char",TRUE
+,Float Multiplication,TRUE
+,ASCII Value of a Character,TRUE
+,Convert Fahrenheit to Celsius,TRUE
+,Calculate Simple Interest,TRUE
+,Calculate Compound Interest,TRUE
+,Area and Perimeter of Rectangle,TRUE
+C++ Control Flow Programs,Check for Even Odd,TRUE
+,Largest Among 3,TRUE
+,Vowel/Consonant Check,TRUE
+,Leap Year Check,TRUE
+,Multiplication Table,TRUE
+,Sum of n Natural Numbers,TRUE
+,Factorial of a Number,TRUE
+,Reverse a Number,TRUE
+,GCD of two numbers,FALSE
+,LCM of two numbers,FALSE
+,Palindrome Check,FALSE
+,Prime Check,FALSE
+,Primes in Range,FALSE
+,Neon Numbers in Range,FALSE
+,Armstrong Number,FALSE
+,Armstrong Numbers Between 1 to 1000,FALSE
+,nth Fibonacci Number,FALSE
+,Even Index Fibonacci Sum,FALSE
+,Calculate the Power of a Number,FALSE
+,Factors of a Natural Number,FALSE
+,Basic Calculator,FALSE
+C++ Pattern Printing Programs,Right Half Pyramid,FALSE
+,Left Half Pyramid,FALSE
+,Full Pyramid,FALSE
+,Inverted Pyramid,FALSE
+,Triangle Pattern,FALSE
+,Number Pattern,FALSE
+,Character Pattern,FALSE
+,Continuous Character Pattern,FALSE
+,Diamond Pyramid,FALSE
+,Inverted Hollow Pyramid,FALSE
+,Hollow Diamond Pyramid,FALSE
+,Pascal's Triangle,FALSE
+,Floyd's Triangle,FALSE
+,Reverse Floyd's Triangle,FALSE
+C++ Function Programs,Primes in Range,FALSE
+,Sum of Two Primes Check,FALSE
+,Recursive Sum of n,FALSE
+,Factorial using Recursion,FALSE
+,Recursive Sentence Reverse,FALSE
+,Power using Recursion,FALSE
+,Variadic Templates,FALSE
+C++ Array Programs,Array Equality Check,FALSE
+,Array Max & Min,FALSE
+,Array Average,FALSE
+,Merge Arrays,FALSE
+,2D Array,FALSE
+,Common Array Elements,FALSE
+,Remove Duplicates,FALSE
+,Remove Element,FALSE
+,Prefix Sum,FALSE
+,Rotate Array,FALSE
+,Reverse Copy Array,FALSE
+C++ Matrix Programs,Matrix Addition,FALSE
+,Matrix Equality Check,FALSE
+,Matrix Diagonal Check,FALSE
+,Matrix Boundary Elements,FALSE
+,Matrix Transpose,FALSE
+,Matrix Determinant,FALSE
+,Normal and Trace of Matrix,FALSE
+,Matrix Multiplication,FALSE
+,Rotate Matrix,FALSE
+,Swap First & Last Rows,FALSE
+,Matrix Prefix Sum,FALSE
+C++ Pointers Programs,Pointers,FALSE
+,Array of Pointers,FALSE
+,Void Pointer,FALSE
+,Reference To a Pointer,FALSE
+,Function pointer,FALSE
+,this Pointer,FALSE
+,Opaque Pointer,FALSE
+C++ String Programs,String Length,FALSE
+,Access Characters,FALSE
+,Unicode at index,FALSE
+,Replace a Character,FALSE
+,String Compare,FALSE
+,Concatenate Strings,FALSE
+,Add Binary Strings,FALSE
+,Remove Leading Zeros,FALSE
+,Lexicographical Compare,FALSE
+,Reverse String,FALSE
+,Palindrome Check,FALSE
+,First Letters of Words,FALSE
+,Insert String,FALSE
+,Split String,FALSE
+,Stack based Reverse,FALSE
+,Pangram Check,FALSE
+C++ Conversion Programs,Binary to Decimal,FALSE
+,Binary to Octal,FALSE
+,Octal to Decimal,FALSE
+,Decimal to Octal,FALSE
+,Hexadecimal to Decimal,FALSE
+,Decimal to Hexadecimal,FALSE
+,Decimal to Binary,FALSE
+,Boolean to String,FALSE
+,String to Double,FALSE
+,Double to String,FALSE
+,String to Long,FALSE
+,Long to String,FALSE
+,Int to Char,FALSE
+,Char to Int,FALSE
+C++ Structures Programs,Structure Function,FALSE
+,Student Structure,FALSE
+,Structure Sorting,FALSE
+C++ Class and Object Programs,Create a Class and Object,FALSE
+,Encapsulation,FALSE
+,Inheritance,FALSE
+,Abstraction in Class,FALSE
+,Data Hiding in Class,FALSE
+,Polymorphism in Class,FALSE
+,Function Overloading,FALSE
+,Function Overriding,FALSE
+,Usage of Access Modifier,FALSE
+,Use of This Keyword in Class,FALSE
+,Usage of Static keyword,FALSE
+,Friend Functions,FALSE
+,Virtual Destructor,FALSE
+,Abstract Class,FALSE
+,Singleton Class,FALSE
+,Interface,FALSE
+,Overload Increment ++ and Decrement,FALSE
+,Add Two Complex Numbers,FALSE
+C++ STL Programs,Reverse Vector,FALSE
+,Copy Vector,FALSE
+,Compare Vectors,FALSE
+,Convert a Vector of Pairs to a Map,FALSE
+,Show transform(),FALSE
+,Merge Maps,FALSE
+,Stack Of Pairs,FALSE
+,Multiset Frequency,FALSE
+,Multiset with Custom Comparator,FALSE
+,String Permutation,FALSE
+,Array Permutation,FALSE
+,Max & Min in Set,FALSE
+,Next Greater Element,FALSE
+,Reverse Priority,FALSE
+,Binary Search Using STL,FALSE
+C++ Searching and Sorting Programs,Linear Search,FALSE
+,Binary Search,FALSE
+,String Sort,FALSE
+,Sort 2D Array Rows,FALSE
+,Sort Descending,FALSE
+,Sort Ascending,FALSE
+,Sort 0-1-2 Array,FALSE
+,Wave Sort,FALSE
+,Partial Sort,FALSE
+,Search in Rotated array,FALSE
+C++ File Handling Programs,New File,FALSE
+,Temporary File,FALSE
+,Write File,FALSE
+,Rename File,FALSE
+,Read-Only File,FALSE
+,Compare File Paths,FALSE
+,Copy File,FALSE
+,Append File,FALSE
+,List Files,FALSE
+,Append String,FALSE
+,Read and Write File,FALSE
+C++ Exception Handling Programs,Runtime Exceptions,FALSE
+,Error Types,FALSE
+,Exception Methods,FALSE
+,Checked Exceptions,FALSE
+,Handle Unchecked Exceptions,FALSE
+,Divide by Zero and Multiple Exceptions,FALSE
+,Unreachable Code Error,FALSE
+,Thread and Memory Errors,FALSE
+C++ Date and Time Programs,Calendar Dates,FALSE
+,Current Date and Time,FALSE
+,Local Time to GMT,FALSE
+C++ Miscellaneous Programs,Quotient & Remainder,FALSE
+,sizeof() Operator,FALSE
+,Name Initials,FALSE
+,Power Without Using * and / Operators,FALSE
+,Quadratic Roots,FALSE
+,Random Doubles,FALSE
+,Hide and Show a Console Window,FALSE
+,Run a C++ Program Without Namespace,FALSE
+,Custom Map (Header),FALSE
+,Zero XOR Triplets,FALSE
