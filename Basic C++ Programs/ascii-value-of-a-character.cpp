@@ -6,7 +6,7 @@ int main() {
   cout << "Enter a Character = ";
   cin >> ch;
 
-  int value = ch
+  int value = ch;
   cout << "ASCII value of " << ch << "is = " << value;
   return 0;
 }
