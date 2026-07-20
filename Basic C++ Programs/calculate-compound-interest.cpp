@@ -1,4 +1,9 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Calculate Compound Interest
+Description: Calculates the required interest value.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {

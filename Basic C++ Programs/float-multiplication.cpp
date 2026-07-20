@@ -1,4 +1,9 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Float Multiplication
+Description: Solves the problem using the appropriate logic.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -10,3 +15,4 @@ int main() {
   cout << "Perimeter of Circle of given Radius is = " << perimeter;
   return 0;
 }
+

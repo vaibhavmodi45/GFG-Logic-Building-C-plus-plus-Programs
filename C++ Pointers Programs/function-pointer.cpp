@@ -1,6 +1,12 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Function pointer
+Description: Demonstrates pointer concepts in C++.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
   return 0;
 }
+

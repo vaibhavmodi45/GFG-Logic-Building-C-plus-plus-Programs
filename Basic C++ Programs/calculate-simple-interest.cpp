@@ -1,4 +1,9 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Calculate Simple Interest
+Description: Calculates the required interest value.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -11,3 +16,4 @@ int main() {
   cout << "Simple Interest is = " << si;
   return 0;
 }
+

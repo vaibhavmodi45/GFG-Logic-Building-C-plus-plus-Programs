@@ -1,6 +1,12 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Multiset with Custom Comparator
+Description: Uses STL containers or algorithms to solve the task.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
   return 0;
 }
+

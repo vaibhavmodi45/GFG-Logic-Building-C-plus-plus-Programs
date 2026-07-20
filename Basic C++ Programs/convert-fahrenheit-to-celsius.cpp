@@ -1,4 +1,9 @@
-﻿//Fahrenheit to Celsius Tempreture
+﻿/*
+Program: Convert Fahrenheit to Celsius
+Description: Solves the problem using the appropriate logic.
+*/
+
+//Fahrenheit to Celsius Tempreture
 
 #include <bits/stdc++.h>
 using namespace std;

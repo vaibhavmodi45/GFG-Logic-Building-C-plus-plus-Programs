@@ -1,3 +1,8 @@
+﻿/*
+Program: Sum of Two Numbers
+Description: Computes the sum of the provided values.
+*/
+
 #include<iostream>
 using namespace std;
 
@@ -9,3 +14,4 @@ int main() {
     cout << "The Sum is = " << a + b << endl;
     return 0;
 }
+

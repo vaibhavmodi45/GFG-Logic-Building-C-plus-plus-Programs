@@ -1,4 +1,9 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Area and Perimeter of Rectangle
+Description: Calculates the rectangle dimensions and related values.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -14,3 +19,4 @@ int main() {
   
   return 0;
 }
+

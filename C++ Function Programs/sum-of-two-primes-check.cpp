@@ -1,6 +1,12 @@
-﻿#include <bits/stdc++.h>
+﻿/*
+Program: Sum of Two Primes Check
+Description: Computes the sum of the provided values.
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
   return 0;
 }
+

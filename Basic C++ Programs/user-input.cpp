@@ -1,3 +1,8 @@
+﻿/*
+Program: User Input
+Description: Solves the problem using the appropriate logic.
+*/
+
 #include <iostream>
 using namespace std;
 
@@ -9,3 +14,4 @@ int main() {
   cout << "You Entered =" << n << endl;
   return 0;
 }
+
